@@ -1,7 +1,6 @@
 # How to Run the Project on Your Device
 
 1. Clone the repository:
-   ```bash
 2. Move the project folder to XAMPP:  
   C:\xampp\htdocs\BloodProject\
 3.Open XAMPP Control Panel and start:
